@@ -1,16 +1,16 @@
 # Lan
 
-I am going to build a new language Lan based on LLVM and Julia.
+*This will be a new language based on LLVM and Julia.*
 
 ### Short Term goals
 
-fastest language at bechmarks
+	fastest language at bechmarks
 
-###Long Term goals: Distinct Features compared to exits languages
+###Long Term goals
 
-Designed for machine learning, optimization, pgm
+	Designed for machine learning, optimization, pgm
 
-Heterogenous programming: support both cpu and gpu
+	Heterogenous programming: support both cpu and gpu
 
 
 
