@@ -6,11 +6,13 @@
 
 	fastest language at bechmarks
 
-###Long Term goals
+### Long Term goals
 
 	Designed for machine learning, optimization, pgm
 
 	Heterogenous programming: support both cpu and gpu
 
+### Ultimate goal
 
+	Intelligence
 
