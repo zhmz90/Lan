@@ -1,18 +1,13 @@
 # Lan
 
-*This will be a new language based on LLVM and Julia.*
+**This is a intelligent programming language based on LLVM and Julia.**
 
-### Short Term goals
+### Goals
+- fastest language at bechmarks
+- Heterogenous programming: support both cpu and gpu
 
-	fastest language at bechmarks
-
-### Long Term goals
-
-	Designed for machine learning, optimization, pgm
-
-	Heterogenous programming: support both cpu and gpu
-
-### Ultimate goal
-
-	Intelligence
+### Schedule
+- [ ] A minimal version of Julia as Lan
+- [ ] optimize Lan to overfit benchmarks
+- [ ] add gpucc whether JIT or static compile to support NVIDIA GPU
 
