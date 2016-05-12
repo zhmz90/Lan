@@ -8,14 +8,20 @@
 - CNN
 - RBM
 
+### OS and Architecture
+- Ubuntu 14.04
+- CPU x86_64
+- GPU Titan X
+
 ### Goals
 - Fastest programming language under Bechmarks
-- Heterogenous programming: support both cpu and gpu
+- Heterogenous programming: support both cpus and gpus
 
 ### Features
 - Julia's front end to be easy for users to use
 - CUDA C/C++'s heterogenous architecture support
 - Use renforcement deep learning to produce highly optimized native code
+- Beat hand coding with OpenBLAS and cuBLAS
 
 ### Dependency
 - Julia
