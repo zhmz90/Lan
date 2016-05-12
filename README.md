@@ -14,7 +14,7 @@
 - GPU Titan X
 
 ### Goals
-- Fastest programming language under Bechmarks
+- Faster programming language than Julia, Lua, Go, Swift etc under Bechmarks
 - Heterogenous programming: support both cpus and gpus
 
 ### Features
