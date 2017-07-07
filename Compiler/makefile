@@ -1,3 +1,3 @@
 CC=clang++
 Gideon: gideon.cc
-	$(CC) -o $@ $<
+	$(CC) -o $@ $< -std=c++11
