@@ -12,7 +12,7 @@ How to keep them live? Have them togother is my solution.</p>
 - implement common data structure and algorithms in c++ based on THU DSA course
 ### OS
 - start with THU OS course and implement a ucore level os
-### Compiler
+### Compiler: Gideon, an interactive artificial consciousness
 - implement a programming language with llvm and start with keleidoscope
 ### Web
 - implement a dynamic website with Python and C++ and put it online
