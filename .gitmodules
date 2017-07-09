@@ -1,0 +1,6 @@
+[submodule "MachineLearning/code/deps/OpenBLAS"]
+	path = MachineLearning/code/deps/OpenBLAS
+	url = git@github.com:xianyi/OpenBLAS.git
+[submodule "MachineLearning/code/resources/openmp/Examples"]
+	path = MachineLearning/code/resources/openmp/Examples
+	url = git@github.com:OpenMP/Examples.git
