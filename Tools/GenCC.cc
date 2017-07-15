@@ -30,7 +30,6 @@ string getHeaders() {
 #include <algorithm>
 #include <unordered_map>
 
-using vector = std::vector;
 using string = std::string;
 
 )";
