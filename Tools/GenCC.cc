@@ -37,8 +37,8 @@ using string = std::string;
 
 string getMain() {
   return R"(int main(int argc, char *argv[]) {
-Solution solu;
-return 0;
+  Solution solu;
+  return 0;
 })";
 }
 
