@@ -12,10 +12,11 @@
 using Function = llvm::Function;
 using FunctionPass = llvm::FunctionPass;
 
+namespace {
 class MyFunctionPass: public FunctionPass {
  public:
   MyFunctionPass(): FunctionPass(ID) {}
-  virtual bool runOnFunction(llvm::Function &F) {
+  virtual bool runOnFunction(llvm::Function &F) override {
     if (F.getName().startswith("hello")) {
       llvm::outs() << "Function name starts with hello. \n";
     }
@@ -23,7 +24,7 @@ class MyFunctionPass: public FunctionPass {
   }
   static char ID;
 };
-
+}  //  namespace
 char MyFunctionPass::ID = 'a';
-static llvm::RegisterPass<MyFunctionPass> global_("test_llvm",
+static llvm::RegisterPass<MyFunctionPass> global_("test_llvm-guolanting",
                                                   "test llvm", false, false);
