@@ -27,10 +27,18 @@ string getHeaders() {
   return R"(#include <iostream>
 #include <vector>
 #include <string>
+#include <stack>
+#include <queue>
 #include <algorithm>
 #include <unordered_map>
+#include <memory>
 
-using string = std::string;
+using std::string;
+using std::vector;
+using std::endl;
+using std::cin;
+using std::shared_ptr;
+using std::make_shared;
 
 )";
 }
