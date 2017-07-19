@@ -24,6 +24,7 @@ How to keep them live? Have them togother is my solution.</p>
 - Characterize somatic mutations. Do classifications such as diver or not.
 - Rank companies based on invest value. Start with A share of Shanghai and Shenzhen.
 ### CFA 
-- accout analysis
-
+- financial analysis
+### Aerodynamics
+- MIT courses
 
