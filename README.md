@@ -18,6 +18,7 @@ How to keep them live? Have them togother is my solution.</p>
 - implement a dynamic website with Python and C++ and put it online
 ### Search Engine
 - implement a simple search engineer in c++ based on the python course
+- tech seach enginne embedded in emacs
 ### Machine Learning
 - implement common algortihms in c++
 - Characterize somatic mutations. Do classifications such as diver or not.
