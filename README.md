@@ -13,6 +13,7 @@ How to keep them live? Have them togother is my solution.</p>
 ### OS
 - start with THU OS course and implement a ucore level os
 ### Compiler: Gideon, an interactive artificial consciousness
+- LLVM Project
 - implement a programming language with llvm and start with keleidoscope
 ### Web
 - implement a dynamic website with Python and C++ and put it online
